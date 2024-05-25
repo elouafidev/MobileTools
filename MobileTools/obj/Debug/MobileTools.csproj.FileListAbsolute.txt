@@ -1,0 +1,38 @@
+c:\users\mypc\documents\visual studio 2015\Projects\MobileTools\MobileTools\bin\Debug\MobileTools.exe.config
+c:\users\mypc\documents\visual studio 2015\Projects\MobileTools\MobileTools\obj\Debug\MobileTools.csprojResolveAssemblyReference.cache
+c:\users\mypc\documents\visual studio 2015\Projects\MobileTools\MobileTools\obj\Debug\MobileTools.Form1.resources
+c:\users\mypc\documents\visual studio 2015\Projects\MobileTools\MobileTools\obj\Debug\MobileTools.Properties.Resources.resources
+c:\users\mypc\documents\visual studio 2015\Projects\MobileTools\MobileTools\obj\Debug\MobileTools.csproj.GenerateResource.Cache
+c:\users\mypc\documents\visual studio 2015\Projects\MobileTools\MobileTools\bin\Debug\MobileTools.exe
+c:\users\mypc\documents\visual studio 2015\Projects\MobileTools\MobileTools\bin\Debug\MobileTools.pdb
+c:\users\mypc\documents\visual studio 2015\Projects\MobileTools\MobileTools\bin\Debug\MobileLibrary.dll
+c:\users\mypc\documents\visual studio 2015\Projects\MobileTools\MobileTools\bin\Debug\MobileLibrary.pdb
+c:\users\mypc\documents\visual studio 2015\Projects\MobileTools\MobileTools\obj\Debug\MobileTools.exe
+c:\users\mypc\documents\visual studio 2015\Projects\MobileTools\MobileTools\obj\Debug\MobileTools.pdb
+C:\Users\myPC\Documents\Visual Studio 2015\Projects\MobileTools\MobileTools\obj\Debug\MobileTools.searchRichtextbox.resources
+D:\#Projects\project MobileTools\MobileTools\MobileTools\obj\Debug\MobileTools.csproj.AssemblyReference.cache
+D:\#Projects\project MobileTools\MobileTools\MobileTools\obj\Debug\MobileTools.Form1.resources
+D:\#Projects\project MobileTools\MobileTools\MobileTools\obj\Debug\MobileTools.Properties.Resources.resources
+D:\#Projects\project MobileTools\MobileTools\MobileTools\obj\Debug\MobileTools.searchRichtextbox.resources
+D:\#Projects\project MobileTools\MobileTools\MobileTools\obj\Debug\MobileTools.csproj.GenerateResource.cache
+D:\#Projects\project MobileTools\MobileTools\MobileTools\obj\Debug\MobileTools.csproj.CoreCompileInputs.cache
+D:\#Projects\project MobileTools\MobileTools\MobileTools\obj\Debug\MobileTools.exe
+D:\#Projects\project MobileTools\MobileTools\MobileTools\obj\Debug\MobileTools.pdb
+D:\#Projects\project MobileTools\MobileTools\MobileTools\bin\Debug\MobileTools.exe.config
+D:\#Projects\project MobileTools\MobileTools\MobileTools\bin\Debug\MobileTools.exe
+D:\#Projects\project MobileTools\MobileTools\MobileTools\bin\Debug\MobileTools.pdb
+D:\#Projects\project MobileTools\MobileTools\MobileTools\bin\Debug\MobileLibrary.pdb
+D:\#Projects\project MobileTools\MobileTools\MobileTools\obj\Debug\MobileTo.08B0648C.Up2Date
+D:\#Projects\project MobileTools\MobileTools\source\MobileTools\bin\Debug\MobileTools.exe.config
+D:\#Projects\project MobileTools\MobileTools\source\MobileTools\bin\Debug\MobileTools.exe
+D:\#Projects\project MobileTools\MobileTools\source\MobileTools\bin\Debug\MobileTools.pdb
+D:\#Projects\project MobileTools\MobileTools\source\MobileTools\bin\Debug\ADBCommandSDK.dll
+D:\#Projects\project MobileTools\MobileTools\source\MobileTools\obj\Debug\MobileTools.csproj.AssemblyReference.cache
+D:\#Projects\project MobileTools\MobileTools\source\MobileTools\obj\Debug\MobileTools.Form1.resources
+D:\#Projects\project MobileTools\MobileTools\source\MobileTools\obj\Debug\MobileTools.Properties.Resources.resources
+D:\#Projects\project MobileTools\MobileTools\source\MobileTools\obj\Debug\MobileTools.searchRichtextbox.resources
+D:\#Projects\project MobileTools\MobileTools\source\MobileTools\obj\Debug\MobileTools.csproj.GenerateResource.cache
+D:\#Projects\project MobileTools\MobileTools\source\MobileTools\obj\Debug\MobileTools.csproj.CoreCompileInputs.cache
+D:\#Projects\project MobileTools\MobileTools\source\MobileTools\obj\Debug\MobileTo.08B0648C.Up2Date
+D:\#Projects\project MobileTools\MobileTools\source\MobileTools\obj\Debug\MobileTools.exe
+D:\#Projects\project MobileTools\MobileTools\source\MobileTools\obj\Debug\MobileTools.pdb
